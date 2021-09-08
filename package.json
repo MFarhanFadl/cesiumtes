@@ -6,7 +6,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/MFarhanFadl/tes2.git"
+        "url": "https://github.com/MFarhanFadl/cesiumtes.git"
     },
     "dependencies": {
         "express": "~4.9.x",
